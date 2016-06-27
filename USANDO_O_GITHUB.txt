@@ -1,0 +1,9 @@
+git init
+git clone
+FECHA E ABRE O BASH NA PASTA BAIXADA
+git status
+git pull
+ALTERA O ARQUIVO
+git add "NOME DO ARQUIVO.EXTENSÃO"
+git commit -m "COMENTA A ALTERAÇÃO"
+git push
